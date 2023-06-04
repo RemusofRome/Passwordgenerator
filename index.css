@@ -1,53 +1,52 @@
 body {
-    margin: auto;
-    background: grey;
-    color: #A78BFA
+  margin: auto;
+  background: grey;
+  color: #a78bfa;
 }
 
 button {
-    background: #9CA3AF;
-    width: 211px;
-    height: 39px;
-    padding: px 12px;
-    font-weight: 600;
-    border-radius: 6px;
-    border: 0
+  background: #9ca3af;
+  width: 211px;
+  height: 39px;
+  padding: px 12px;
+  font-weight: 600;
+  border-radius: 6px;
+  border: 0;
 }
 
 #passContainer {
-    margin: 64px auto;
-    height: 400px;
-    width: 550px;
-    background: #374151;
-    border-radius: 6px
+  margin: 64px auto;
+  height: 400px;
+  width: 550px;
+  background: #374151;
+  border-radius: 6px;
 }
 
 #topPassBox {
-    padding-top: 16px;
-    padding-left: 54px;
-    padding-bottom: 10px;
+  padding-top: 16px;
+  padding-left: 54px;
+  padding-bottom: 10px;
 }
 
 #botPassBox {
-    padding-bottom: 44px;
-    padding-top: 12px;
-    padding-left: 54px;
-    display: flex;
-    justify-content: 
+  padding-bottom: 44px;
+  padding-top: 12px;
+  padding-left: 54px;
+  display: flex;
 }
 
 #otherWord {
-    color: #34D399;
-    text-decoration: underline;
+  color: #34d399;
+  text-decoration: underline;
 }
 p {
-    color: #fff;
-    border-radius: 6px;
-    width: 211px;
-    height: 39px;
-    background: #6D28D9;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-right: 4px;
+  color: #fff;
+  border-radius: 6px;
+  width: 211px;
+  height: 39px;
+  background: #6d28d9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 4px;
 }
